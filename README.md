@@ -75,7 +75,7 @@ Jika kamu perlu menambahkan paket baru (seperti `axios` atau `react-router-dom`)
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan SQL Brutal](src/screenshot.png)
+![Tampilan SQL Brutal](src/assets/screenshot.png)
 
 
 ## 📄 Lisensi
