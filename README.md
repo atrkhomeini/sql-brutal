@@ -73,6 +73,11 @@ Jika kamu perlu menambahkan paket baru (seperti `axios` atau `react-router-dom`)
 
 ---
 
+## 📸 Tampilan Aplikasi
+
+![Tampilan SQL Brutal](src/screenshot.png)
+
+
 ## 📄 Lisensi
 
 Proyek ini didistribusikan di bawah Lisensi MIT.
